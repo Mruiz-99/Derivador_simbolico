@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><g>
+
+    <plus><times><const>0</const><power>
+
+        <var>X</var>
+
+        <const>5</const>       
+
+      </power></times><times><const>4</const><times><times><const>5</const><power><var>X</var><const>5 - 1</const></power></times><const>1</const></times></times></plus>
+
+
+
+</g>
